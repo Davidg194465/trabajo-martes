@@ -8,10 +8,13 @@ Practicar lógica de programación en PHP con ciclos, condicionales y arreglos.
 - PHP
 - Git y GitHub
 
-## Archivos
-- ciclo_for / ciclo_while: práctica de ciclos
-- edad: condicionales
-- inventario / productos / notas: manejo de arreglos y foreach
+## Cómo ejecutar
+php edad.php
+php ciclo_for.php
+php ciclo_while.php
+php notas.php
+php inventario.php
+php productos.php
 
 ## Autor
 Adrian Garzon · Ficha 3538620
