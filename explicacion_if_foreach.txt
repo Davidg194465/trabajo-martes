@@ -1,0 +1,7 @@
+Diferencia entre if y foreach
+
+El if sirve para tomar una decisión: revisa una condición y ejecuta un bloque de código solo si se cumple (y si no, puede ejecutar el else).
+
+El foreach sirve para repetir: recorre un arreglo y hace lo mismo con cada elemento, uno por uno, sin que yo maneje los índices.
+
+En el inventario los combiné: el foreach recorre cada producto y el if decide si muestra la alerta de stock bajo.
